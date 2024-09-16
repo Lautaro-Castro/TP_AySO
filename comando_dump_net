@@ -1,0 +1,1 @@
+uso el comando man -k dump | grep traffic para obtener el tcpdump el cual sirve para limpiar los archivos y este comando me devolvio: tcpdump (8)          - dump traffic on a network
